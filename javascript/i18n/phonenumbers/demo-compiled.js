@@ -5364,8 +5364,8 @@
 
     function lc(phonenumber) {
         var a = phonenumber,
-            b = Ba("defaultCountry").value,
-            c = Ba("carrierCode").value,
+            //b = Ba("defaultCountry").value,
+            //c = Ba("carrierCode").value,
             d = new D;
         try {
             var e = L.a(),
